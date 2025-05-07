@@ -104,6 +104,10 @@ exports['exter-menu']:openMenu({
 [nm1-Dev](https://github.com/nm1-Dev)
 
 ---
+![mennnuuu](https://github.com/user-attachments/assets/3c61f964-5f2f-49da-83e3-ae135da8df6b)
+
+---
+# PREVIEW
 
 ## 📜 License
 
