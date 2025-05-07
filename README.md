@@ -22,7 +22,7 @@
 1. **Download and extract** this resource into your `resources/[exter]` folder.
 2. Add the following to your `server.cfg`:
    ```cfg
-   ensure exter-core
+   ensure qb-core
    ensure exter-menu
    ```
 3. Ensure your server uses QBCore and has a valid shared items configuration.
