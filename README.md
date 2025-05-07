@@ -94,7 +94,7 @@ exports['exter-menu']:openMenu({
 
 ## 💬 Notes
 
-- This script depends on `exter-core`
+- This script depends on `qb-core`
 - For best results, use a screen resolution of **1280x720** or higher
 - Not compatible with `qb-menu` — acts as a full replacement
 
